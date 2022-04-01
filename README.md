@@ -1,5 +1,5 @@
 ### **Poitevin Eve**
-# Projet Accés et Recherche d'Informations
+# Projet Accès et Recherche d'Informations
 
 
 Pendant 6 séances, nous avons travaillé sur 3 TP différents qui nous ont permis de découvrir la loi de Zipf, la constitution de vocabulaire et la recherche de requête dans des documents.
